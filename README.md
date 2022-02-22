@@ -11,6 +11,7 @@ Built in py3 using discord.py
 # Preview
 ![2022-01-08_02-24](https://media.discordapp.net/attachments/945720767516127232/945727039078563930/unknown.png?width=320&height=182)
 
+Video: https://www.youtube.com/watch?v=B7G-mgEEgnA
 
 # Credits
 -> Main Author: Ivano 
